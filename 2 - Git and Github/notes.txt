@@ -3,3 +3,5 @@ git config --global user.email "email"git
 git init
 git status
 git add .
+git status
+git commit -m "Create notes.txt for Mastering CLI."
