@@ -28,6 +28,7 @@ touch file_name.ext
 9) Remove a file
 rm file_name.ext
 
+test
 
 
 
